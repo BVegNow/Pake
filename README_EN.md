@@ -141,7 +141,7 @@ pake url [options]
 pake https://weekly.tw93.fun --name Weekly --transparent
 ```
 
-If you are a little white who doesn't know how to use the command line, a good option is to use **GitHub Actions online compilation**, see the [tutorial](https://github.com/tw93/Pake/wiki/GitHub-Actions-Online-Compilation-Multi-system-Version).
+If you are a beginner who doesn't know how to use the command line, a good option is to use **GitHub Actions online compilation**, see the [tutorial](https://github.com/tw93/Pake/wiki/GitHub-Actions-Online-Compilation-Multi-system-Version).
 
 ## Development
 
